@@ -17,9 +17,9 @@ Incluye pdf con explicación teórica y conceptual de la base de datos realizada
 
 2. ***Find***
 
-3. ***Aggregate ***
+3. ***Aggregate***
 
-4. ***Update y updateMany ***
+4. ***Update y updateMany***
 
 5. ***Búsquedas geoespaciales***
 
